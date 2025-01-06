@@ -1,4 +1,4 @@
-package com.rpsouza
+package com.rpsouza.model
 
 import kotlinx.serialization.Serializable
 
